@@ -9,7 +9,7 @@
 #include <iostream>
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
+    // This is a simple hello world app
     std::cout << "Hello, World!\n";
     return 0;
 }
